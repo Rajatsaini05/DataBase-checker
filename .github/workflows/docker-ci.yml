@@ -7,7 +7,7 @@ on:
     branches: [ "main" ]
 
 env:
-  DOCKER_IMAGE_NAME: your-app-name
+  DOCKER_IMAGE_NAME: DataBaseChecker
   DOCKER_IMAGE_TAG: latest
 
 jobs:
